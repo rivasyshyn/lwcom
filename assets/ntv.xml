@@ -1,0 +1,2641 @@
+System.Collections.Generic.List`1[[Ntv.ViewModels.ArticleInfo, Ntv, Version=1.4.0.0, Culture=neutral, PublicKeyToken=null]], mscorlib, Version=3.7.0.0, Culture=neutral, PublicKeyToken=969DB8053D3322ACNtvService.Page.Elements.Slots.WeatherSlot+ForecastLocation, NtvService, Version=1.3.0.0, Culture=neutral, PublicKeyToken=nullNtvService.Config.ConfigData, NtvService, Version=1.3.0.0, Culture=neutral, PublicKeyToken=nullNtv.ViewModels.ArticleData, Ntv, Version=1.4.0.0, Culture=neutral, PublicKeyToken=null
+<ArrayOfKeyValueOfstringanyType xmlns:i="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays" >
+
+    <KeyValueOfstringanyType>
+
+        <Key>
+sessionId
+        </Key>
+
+        <Value
+            xmlns:d3p1="http://www.w3.org/2001/XMLSchema"
+            i:type="d3p1:string" >
+3372308671262263640187356840884501520
+        </Value>
+    </KeyValueOfstringanyType>
+
+    <KeyValueOfstringanyType>
+
+        <Key>
+SavedArticles
+        </Key>
+
+        <Value
+            xmlns:d3p1="http://schemas.datacontract.org/2004/07/Ntv.ViewModels"
+            i:type="d3p1:ArrayOfArticleInfo" >
+
+            <d3p1:ArticleInfo>
+
+                <d3p1:ContentType>
+meldung
+                </d3p1:ContentType>
+
+                <d3p1:HeadLine>
+Mercedes plant A-Klasse-SUV
+                </d3p1:HeadLine>
+
+                <d3p1:HomeSection>
+Auto
+                </d3p1:HomeSection>
+
+                <d3p1:Id>
+6179536
+                </d3p1:Id>
+
+                <d3p1:ImageFileName>
+_4_3_160_MercedesGLA.jpg
+                </d3p1:ImageFileName>
+
+                <d3p1:PublishData>
+04.05.2012 11:24
+                </d3p1:PublishData>
+
+                <d3p1:SavedDateTime>
+2012-05-04T13:35:33.174+03:00
+                </d3p1:SavedDateTime>
+
+                <d3p1:Section>
+Auto
+                </d3p1:Section>
+
+                <d3p1:SubHeadLine>
+Softroader gegen X1 und Q3
+                </d3p1:SubHeadLine>
+
+                <d3p1:Url>
+http://apps.n-tv.de/auto/Mercedes-plant-A-Klasse-SUV-article6179536.html?service=mobile
+                </d3p1:Url>
+            </d3p1:ArticleInfo>
+        </Value>
+    </KeyValueOfstringanyType>
+
+    <KeyValueOfstringanyType>
+
+        <Key>
+userId
+        </Key>
+
+        <Value
+            xmlns:d3p1="http://www.w3.org/2001/XMLSchema"
+            i:type="d3p1:string" >
+4332637022526616180
+        </Value>
+    </KeyValueOfstringanyType>
+
+    <KeyValueOfstringanyType>
+
+        <Key>
+pf
+        </Key>
+
+        <Value
+            xmlns:d3p1="http://www.w3.org/2001/XMLSchema"
+            i:type="d3p1:double" >
+21
+        </Value>
+    </KeyValueOfstringanyType>
+
+    <KeyValueOfstringanyType>
+
+        <Key>
+h1
+        </Key>
+
+        <Value
+            xmlns:d3p1="http://www.w3.org/2001/XMLSchema"
+            i:type="d3p1:double" >
+26
+        </Value>
+    </KeyValueOfstringanyType>
+
+    <KeyValueOfstringanyType>
+
+        <Key>
+h2
+        </Key>
+
+        <Value
+            xmlns:d3p1="http://www.w3.org/2001/XMLSchema"
+            i:type="d3p1:double" >
+24
+        </Value>
+    </KeyValueOfstringanyType>
+
+    <KeyValueOfstringanyType>
+
+        <Key>
+h3
+        </Key>
+
+        <Value
+            xmlns:d3p1="http://www.w3.org/2001/XMLSchema"
+            i:type="d3p1:double" >
+23
+        </Value>
+    </KeyValueOfstringanyType>
+
+    <KeyValueOfstringanyType>
+
+        <Key>
+h4
+        </Key>
+
+        <Value
+            xmlns:d3p1="http://www.w3.org/2001/XMLSchema"
+            i:type="d3p1:double" >
+22
+        </Value>
+    </KeyValueOfstringanyType>
+
+    <KeyValueOfstringanyType>
+
+        <Key>
+ts
+        </Key>
+
+        <Value
+            xmlns:d3p1="http://www.w3.org/2001/XMLSchema"
+            i:type="d3p1:double" >
+19
+        </Value>
+    </KeyValueOfstringanyType>
+
+    <KeyValueOfstringanyType>
+
+        <Key>
+ss
+        </Key>
+
+        <Value
+            xmlns:d3p1="http://www.w3.org/2001/XMLSchema"
+            i:type="d3p1:double" >
+28
+        </Value>
+    </KeyValueOfstringanyType>
+
+    <KeyValueOfstringanyType>
+
+        <Key>
+ps
+        </Key>
+
+        <Value
+            xmlns:d3p1="http://www.w3.org/2001/XMLSchema"
+            i:type="d3p1:double" >
+16
+        </Value>
+    </KeyValueOfstringanyType>
+
+    <KeyValueOfstringanyType>
+
+        <Key>
+ForecastLocation
+        </Key>
+
+        <Value
+            xmlns:d3p1="http://schemas.datacontract.org/2004/07/NtvService.Page.Elements.Slots"
+            i:type="d3p1:WeatherSlot.ForecastLocation" >
+
+            <d3p1:City>
+Berlin
+            </d3p1:City>
+
+            <d3p1:ZipCode>
+10115
+            </d3p1:ZipCode>
+        </Value>
+    </KeyValueOfstringanyType>
+
+    <KeyValueOfstringanyType>
+
+        <Key>
+IsNotificationEnabled
+        </Key>
+
+        <Value
+            xmlns:d3p1="http://www.w3.org/2001/XMLSchema"
+            i:type="d3p1:string" >
+True
+        </Value>
+    </KeyValueOfstringanyType>
+
+    <KeyValueOfstringanyType>
+
+        <Key>
+config
+        </Key>
+
+        <Value
+            xmlns:d3p1="http://schemas.datacontract.org/2004/07/NtvService.Config"
+            i:type="d3p1:ConfigData" >
+
+            <d3p1:MenuItems>
+
+                <d3p1:MenuItem>
+
+                    <d3p1:Feeds>
+
+                        <d3p1:Feed>
+
+                            <d3p1:Layout>
+left
+                            </d3p1:Layout>
+
+                            <d3p1:Name>
+Startseite Content
+                            </d3p1:Name>
+
+                            <d3p1:Uri>
+http://apps.n-tv.de/apps/common/?service=mobile&amp;type=frontpage
+                            </d3p1:Uri>
+                        </d3p1:Feed>
+                    </d3p1:Feeds>
+
+                    <d3p1:Name>
+Startseite
+                    </d3p1:Name>
+
+                    <d3p1:Properties>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/start.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g_rollover
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/start_over.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ivw
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_top
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ad
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_top
+                            </d3p1:Value>
+                        </d3p1:Property>
+                    </d3p1:Properties>
+
+                    <d3p1:Type>
+FrontPage
+                    </d3p1:Type>
+                </d3p1:MenuItem>
+
+                <d3p1:MenuItem>
+
+                    <d3p1:Feeds>
+
+                        <d3p1:Feed>
+
+                            <d3p1:Layout>
+left
+                            </d3p1:Layout>
+
+                            <d3p1:Name>
+Videos Content
+                            </d3p1:Name>
+
+                            <d3p1:Uri>
+http://apps.n-tv.de/apps/common/video/topvideo/iphone/?service=mobile&amp;type=section
+                            </d3p1:Uri>
+                        </d3p1:Feed>
+                    </d3p1:Feeds>
+
+                    <d3p1:Name>
+Videos
+                    </d3p1:Name>
+
+                    <d3p1:Properties>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/video.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g_rollover
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/video_over.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ivw
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_vid
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ad
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_vid
+                            </d3p1:Value>
+                        </d3p1:Property>
+                    </d3p1:Properties>
+
+                    <d3p1:Type>
+Section
+                    </d3p1:Type>
+                </d3p1:MenuItem>
+
+                <d3p1:MenuItem>
+
+                    <d3p1:Feeds>
+
+                        <d3p1:Feed>
+
+                            <d3p1:Layout>
+left
+                            </d3p1:Layout>
+
+                            <d3p1:Name>
+Bilderserien Content
+                            </d3p1:Name>
+
+                            <d3p1:Uri>
+http://apps.n-tv.de/apps/common/bilderserien/?service=mobile&amp;type=section
+                            </d3p1:Uri>
+                        </d3p1:Feed>
+                    </d3p1:Feeds>
+
+                    <d3p1:Name>
+Bilderserien
+                    </d3p1:Name>
+
+                    <d3p1:Properties>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/bilder.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g_rollover
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/bilder_over.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ivw
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_bs
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ad
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_bs
+                            </d3p1:Value>
+                        </d3p1:Property>
+                    </d3p1:Properties>
+
+                    <d3p1:Type>
+Section
+                    </d3p1:Type>
+                </d3p1:MenuItem>
+
+                <d3p1:MenuItem>
+
+                    <d3p1:Feeds>
+
+                        <d3p1:Feed>
+
+                            <d3p1:Layout>
+left
+                            </d3p1:Layout>
+
+                            <d3p1:Name>
+Wetter Content
+                            </d3p1:Name>
+
+                            <d3p1:Uri>
+http://tools.n-tv.de/wetter/ntvvorhersagedeutschland/
+                            </d3p1:Uri>
+                        </d3p1:Feed>
+                    </d3p1:Feeds>
+
+                    <d3p1:Name>
+Wetter
+                    </d3p1:Name>
+
+                    <d3p1:Properties>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/wetter.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g_rollover
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/wetter_over.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ivw
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_we
+                            </d3p1:Value>
+                        </d3p1:Property>
+                    </d3p1:Properties>
+
+                    <d3p1:Type>
+Weather
+                    </d3p1:Type>
+                </d3p1:MenuItem>
+
+                <d3p1:MenuItem>
+
+                    <d3p1:Feeds>
+
+                        <d3p1:Feed>
+
+                            <d3p1:Layout>
+left
+                            </d3p1:Layout>
+
+                            <d3p1:Name>
+Search Content
+                            </d3p1:Name>
+
+                            <d3p1:Uri>
+http://apps.n-tv.de/?service=mobile&amp;type=search
+                            </d3p1:Uri>
+                        </d3p1:Feed>
+                    </d3p1:Feeds>
+
+                    <d3p1:Name>
+Suche
+                    </d3p1:Name>
+
+                    <d3p1:Properties>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/suche.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g_rollover
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/suche_over.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ivw
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_suche
+                            </d3p1:Value>
+                        </d3p1:Property>
+                    </d3p1:Properties>
+
+                    <d3p1:Type>
+Search
+                    </d3p1:Type>
+                </d3p1:MenuItem>
+
+                <d3p1:MenuItem>
+
+                    <d3p1:Feeds>
+
+                        <d3p1:Feed>
+
+                            <d3p1:Layout>
+left
+                            </d3p1:Layout>
+
+                            <d3p1:Name>
+Politik Content
+                            </d3p1:Name>
+
+                            <d3p1:Uri>
+http://apps.n-tv.de/apps/common/politik/?service=mobile&amp;type=section
+                            </d3p1:Uri>
+                        </d3p1:Feed>
+                    </d3p1:Feeds>
+
+                    <d3p1:Name>
+Politik
+                    </d3p1:Name>
+
+                    <d3p1:Properties>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/politik.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g_rollover
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/politik_over.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ivw
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_po
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ad
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_po
+                            </d3p1:Value>
+                        </d3p1:Property>
+                    </d3p1:Properties>
+
+                    <d3p1:Type>
+Section
+                    </d3p1:Type>
+                </d3p1:MenuItem>
+
+                <d3p1:MenuItem>
+
+                    <d3p1:Feeds>
+
+                        <d3p1:Feed>
+
+                            <d3p1:Layout>
+left
+                            </d3p1:Layout>
+
+                            <d3p1:Name>
+Wirtschaft Content
+                            </d3p1:Name>
+
+                            <d3p1:Uri>
+http://apps.n-tv.de/apps/common/wirtschaft/?service=mobile&amp;type=section
+                            </d3p1:Uri>
+                        </d3p1:Feed>
+                    </d3p1:Feeds>
+
+                    <d3p1:Name>
+Wirtschaft
+                    </d3p1:Name>
+
+                    <d3p1:Properties>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/wirtschaft.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g_rollover
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/wirtschaft_over.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ivw
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_wi
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ad
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_wi
+                            </d3p1:Value>
+                        </d3p1:Property>
+                    </d3p1:Properties>
+
+                    <d3p1:Type>
+Section
+                    </d3p1:Type>
+                </d3p1:MenuItem>
+
+                <d3p1:MenuItem>
+
+                    <d3p1:Feeds>
+
+                        <d3p1:Feed>
+
+                            <d3p1:Layout>
+left
+                            </d3p1:Layout>
+
+                            <d3p1:Name>
+BГ¶rse Content
+                            </d3p1:Name>
+
+                            <d3p1:Uri>
+http://apps.n-tv.de/apps/common/boerse/?service=mobile&amp;type=section
+                            </d3p1:Uri>
+                        </d3p1:Feed>
+                    </d3p1:Feeds>
+
+                    <d3p1:Name>
+BГ¶rse
+                    </d3p1:Name>
+
+                    <d3p1:Properties>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/boerse.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g_rollover
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/boerse_over.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ivw
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_kurse
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ad
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_kurse
+                            </d3p1:Value>
+                        </d3p1:Property>
+                    </d3p1:Properties>
+
+                    <d3p1:Type>
+Section
+                    </d3p1:Type>
+                </d3p1:MenuItem>
+
+                <d3p1:MenuItem>
+
+                    <d3p1:Feeds>
+
+                        <d3p1:Feed>
+
+                            <d3p1:Layout>
+left
+                            </d3p1:Layout>
+
+                            <d3p1:Name>
+BГ¶rsenticker Content 1
+                            </d3p1:Name>
+
+                            <d3p1:Uri>
+http://www.n-tv.de/quoteinterface/INSTRUMENT/MIXEDPOOL/159096,158375,159090,159191,159194,159196,2303555,149002,2303839,148429
+                            </d3p1:Uri>
+                        </d3p1:Feed>
+
+                        <d3p1:Feed>
+
+                            <d3p1:Layout>
+center
+                            </d3p1:Layout>
+
+                            <d3p1:Name>
+BГ¶rsenticker Content 2
+                            </d3p1:Name>
+
+                            <d3p1:Uri>
+http://www.n-tv.de/quoteinterface/INSTRUMENT/MIXEDPOOL/159096,158375,2303555,149002
+                            </d3p1:Uri>
+                        </d3p1:Feed>
+
+                        <d3p1:Feed>
+
+                            <d3p1:Layout>
+right
+                            </d3p1:Layout>
+
+                            <d3p1:Name>
+BГ¶rsenticker Content 3
+                            </d3p1:Name>
+
+                            <d3p1:Uri>
+http://www.n-tv.de/quoteinterface/INDEX/COMPOSITION/MIXED/
+                            </d3p1:Uri>
+                        </d3p1:Feed>
+
+                        <d3p1:Feed>
+
+                            <d3p1:Layout>
+bottom
+                            </d3p1:Layout>
+
+                            <d3p1:Name>
+BГ¶rsenticker Content 4
+                            </d3p1:Name>
+
+                            <d3p1:Uri>
+http://www.n-tv.de/quoteinterface/INSTRUMENT/MIXEDPOOL/2079559,2203892,2453966,2453984
+                            </d3p1:Uri>
+                        </d3p1:Feed>
+                    </d3p1:Feeds>
+
+                    <d3p1:Name>
+BГ¶rsenticker
+                    </d3p1:Name>
+
+                    <d3p1:Properties>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/boersenticker.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g_rollover
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/boersenticker_over.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ivw
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_kurse
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ad
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_stock
+                            </d3p1:Value>
+                        </d3p1:Property>
+                    </d3p1:Properties>
+
+                    <d3p1:Type>
+StockTicker
+                    </d3p1:Type>
+                </d3p1:MenuItem>
+
+                <d3p1:MenuItem>
+
+                    <d3p1:Feeds>
+
+                        <d3p1:Feed>
+
+                            <d3p1:Layout>
+left
+                            </d3p1:Layout>
+
+                            <d3p1:Name>
+Sport Content
+                            </d3p1:Name>
+
+                            <d3p1:Uri>
+http://apps.n-tv.de/apps/common/sport/?service=mobile&amp;type=section
+                            </d3p1:Uri>
+                        </d3p1:Feed>
+                    </d3p1:Feeds>
+
+                    <d3p1:Name>
+Sport
+                    </d3p1:Name>
+
+                    <d3p1:Properties>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/sport.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g_rollover
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/sport_over.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ivw
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_sp
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ad
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_sp
+                            </d3p1:Value>
+                        </d3p1:Property>
+                    </d3p1:Properties>
+
+                    <d3p1:Type>
+Section
+                    </d3p1:Type>
+                </d3p1:MenuItem>
+
+                <d3p1:MenuItem>
+
+                    <d3p1:Feeds>
+
+                        <d3p1:Feed>
+
+                            <d3p1:Layout>
+left
+                            </d3p1:Layout>
+
+                            <d3p1:Name>
+FuГџballticker Content
+                            </d3p1:Name>
+
+                            <d3p1:Uri>
+http://www.n-tv.de/soccer/services/configuration/configuration
+                            </d3p1:Uri>
+                        </d3p1:Feed>
+                    </d3p1:Feeds>
+
+                    <d3p1:Name>
+FuГџballticker
+                    </d3p1:Name>
+
+                    <d3p1:Properties>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/fussball.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g_rollover
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/fussball_over.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ivw
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_sp
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ad
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_soccer
+                            </d3p1:Value>
+                        </d3p1:Property>
+                    </d3p1:Properties>
+
+                    <d3p1:Type>
+SoccerTicker
+                    </d3p1:Type>
+                </d3p1:MenuItem>
+
+                <d3p1:MenuItem>
+
+                    <d3p1:Feeds>
+
+                        <d3p1:Feed>
+
+                            <d3p1:Layout>
+left
+                            </d3p1:Layout>
+
+                            <d3p1:Name>
+Panorama Content
+                            </d3p1:Name>
+
+                            <d3p1:Uri>
+http://apps.n-tv.de/apps/common/panorama/?service=mobile&amp;type=section
+                            </d3p1:Uri>
+                        </d3p1:Feed>
+                    </d3p1:Feeds>
+
+                    <d3p1:Name>
+Panorama
+                    </d3p1:Name>
+
+                    <d3p1:Properties>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/panorama.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g_rollover
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/panorama_over.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ivw
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_pa
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ad
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_pa
+                            </d3p1:Value>
+                        </d3p1:Property>
+                    </d3p1:Properties>
+
+                    <d3p1:Type>
+Section
+                    </d3p1:Type>
+                </d3p1:MenuItem>
+
+                <d3p1:MenuItem>
+
+                    <d3p1:Feeds>
+
+                        <d3p1:Feed>
+
+                            <d3p1:Layout>
+left
+                            </d3p1:Layout>
+
+                            <d3p1:Name>
+Unterhaltung Content
+                            </d3p1:Name>
+
+                            <d3p1:Uri>
+http://apps.n-tv.de/apps/common/leute/?service=mobile&amp;type=section
+                            </d3p1:Uri>
+                        </d3p1:Feed>
+                    </d3p1:Feeds>
+
+                    <d3p1:Name>
+Unterhaltung
+                    </d3p1:Name>
+
+                    <d3p1:Properties>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/leute.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g_rollover
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/leute_over.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ivw
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_le
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ad
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_le
+                            </d3p1:Value>
+                        </d3p1:Property>
+                    </d3p1:Properties>
+
+                    <d3p1:Type>
+Section
+                    </d3p1:Type>
+                </d3p1:MenuItem>
+
+                <d3p1:MenuItem>
+
+                    <d3p1:Feeds>
+
+                        <d3p1:Feed>
+
+                            <d3p1:Layout>
+left
+                            </d3p1:Layout>
+
+                            <d3p1:Name>
+Auto Content
+                            </d3p1:Name>
+
+                            <d3p1:Uri>
+http://apps.n-tv.de/apps/common/auto/?service=mobile&amp;type=section
+                            </d3p1:Uri>
+                        </d3p1:Feed>
+                    </d3p1:Feeds>
+
+                    <d3p1:Name>
+Auto
+                    </d3p1:Name>
+
+                    <d3p1:Properties>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/auto.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g_rollover
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/auto_over.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ivw
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_au
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ad
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_au
+                            </d3p1:Value>
+                        </d3p1:Property>
+                    </d3p1:Properties>
+
+                    <d3p1:Type>
+Section
+                    </d3p1:Type>
+                </d3p1:MenuItem>
+
+                <d3p1:MenuItem>
+
+                    <d3p1:Feeds>
+
+                        <d3p1:Feed>
+
+                            <d3p1:Layout>
+left
+                            </d3p1:Layout>
+
+                            <d3p1:Name>
+Technik Content
+                            </d3p1:Name>
+
+                            <d3p1:Uri>
+http://apps.n-tv.de/apps/common/technik/?service=mobile&amp;type=section
+                            </d3p1:Uri>
+                        </d3p1:Feed>
+                    </d3p1:Feeds>
+
+                    <d3p1:Name>
+Technik
+                    </d3p1:Name>
+
+                    <d3p1:Properties>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/technik.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g_rollover
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/technik_over.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ivw
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_te
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ad
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_te
+                            </d3p1:Value>
+                        </d3p1:Property>
+                    </d3p1:Properties>
+
+                    <d3p1:Type>
+Section
+                    </d3p1:Type>
+                </d3p1:MenuItem>
+
+                <d3p1:MenuItem>
+
+                    <d3p1:Feeds>
+
+                        <d3p1:Feed>
+
+                            <d3p1:Layout>
+left
+                            </d3p1:Layout>
+
+                            <d3p1:Name>
+Wissen Content
+                            </d3p1:Name>
+
+                            <d3p1:Uri>
+http://apps.n-tv.de/apps/common/wissen/?service=mobile&amp;type=section
+                            </d3p1:Uri>
+                        </d3p1:Feed>
+                    </d3p1:Feeds>
+
+                    <d3p1:Name>
+Wissen
+                    </d3p1:Name>
+
+                    <d3p1:Properties>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/wissen.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g_rollover
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/wissen_over.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ivw
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_ws
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ad
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_ws
+                            </d3p1:Value>
+                        </d3p1:Property>
+                    </d3p1:Properties>
+
+                    <d3p1:Type>
+Section
+                    </d3p1:Type>
+                </d3p1:MenuItem>
+
+                <d3p1:MenuItem>
+
+                    <d3p1:Feeds>
+
+                        <d3p1:Feed>
+
+                            <d3p1:Layout>
+left
+                            </d3p1:Layout>
+
+                            <d3p1:Name>
+Ratgeber Content
+                            </d3p1:Name>
+
+                            <d3p1:Uri>
+http://apps.n-tv.de/apps/common/ratgeber/?service=mobile&amp;type=section
+                            </d3p1:Uri>
+                        </d3p1:Feed>
+                    </d3p1:Feeds>
+
+                    <d3p1:Name>
+Ratgeber
+                    </d3p1:Name>
+
+                    <d3p1:Properties>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/ratgeber.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g_rollover
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/ratgeber_over.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ivw
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_ra
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ad
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_ra
+                            </d3p1:Value>
+                        </d3p1:Property>
+                    </d3p1:Properties>
+
+                    <d3p1:Type>
+Section
+                    </d3p1:Type>
+                </d3p1:MenuItem>
+
+                <d3p1:MenuItem>
+
+                    <d3p1:Feeds>
+
+                        <d3p1:Feed>
+
+                            <d3p1:Layout>
+left
+                            </d3p1:Layout>
+
+                            <d3p1:Name>
+Reise Content
+                            </d3p1:Name>
+
+                            <d3p1:Uri>
+http://apps.n-tv.de/apps/common/reise/?service=mobile&amp;type=section
+                            </d3p1:Uri>
+                        </d3p1:Feed>
+                    </d3p1:Feeds>
+
+                    <d3p1:Name>
+Reise
+                    </d3p1:Name>
+
+                    <d3p1:Properties>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/reise.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g_rollover
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/reise_over.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ivw
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_re
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ad
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_re
+                            </d3p1:Value>
+                        </d3p1:Property>
+                    </d3p1:Properties>
+
+                    <d3p1:Type>
+Section
+                    </d3p1:Type>
+                </d3p1:MenuItem>
+
+                <d3p1:MenuItem>
+
+                    <d3p1:Feeds />
+
+                    <d3p1:Name>
+Download
+                    </d3p1:Name>
+
+                    <d3p1:Properties>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/download.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g_rollover
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/download_over.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ivw
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_dl
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ad
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_dl
+                            </d3p1:Value>
+                        </d3p1:Property>
+                    </d3p1:Properties>
+
+                    <d3p1:Type>
+Download
+                    </d3p1:Type>
+                </d3p1:MenuItem>
+
+                <d3p1:MenuItem>
+
+                    <d3p1:Feeds />
+
+                    <d3p1:Name>
+Hilfe
+                    </d3p1:Name>
+
+                    <d3p1:Properties>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/hilfe.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g_rollover
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/hilfe_over.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ivw
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_hlp
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ad
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_hlp
+                            </d3p1:Value>
+                        </d3p1:Property>
+                    </d3p1:Properties>
+
+                    <d3p1:Type>
+Help
+                    </d3p1:Type>
+                </d3p1:MenuItem>
+
+                <d3p1:MenuItem>
+
+                    <d3p1:Feeds />
+
+                    <d3p1:Name>
+Impressum
+                    </d3p1:Name>
+
+                    <d3p1:Properties>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/impressum.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+icon_3g_rollover
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+http://apps.n-tv.de/stat/apps/iphone/impressum_over.png
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ivw
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_im
+                            </d3p1:Value>
+                        </d3p1:Property>
+
+                        <d3p1:Property>
+
+                            <d3p1:Name>
+tag.ad
+                            </d3p1:Name>
+
+                            <d3p1:Value>
+wp_im
+                            </d3p1:Value>
+                        </d3p1:Property>
+                    </d3p1:Properties>
+
+                    <d3p1:Type>
+Impressum
+                    </d3p1:Type>
+                </d3p1:MenuItem>
+            </d3p1:MenuItems>
+
+            <d3p1:Properties>
+
+                <d3p1:Property>
+
+                    <d3p1:Name>
+app.version
+                    </d3p1:Name>
+
+                    <d3p1:Value>
+1.2
+                    </d3p1:Value>
+                </d3p1:Property>
+
+                <d3p1:Property>
+
+                    <d3p1:Name>
+config.version
+                    </d3p1:Name>
+
+                    <d3p1:Value>
+0.4
+                    </d3p1:Value>
+                </d3p1:Property>
+
+                <d3p1:Property>
+
+                    <d3p1:Name>
+video.preroll
+                    </d3p1:Name>
+
+                    <d3p1:Value>
+http://ad.mo.doubleclick.net/DARTProxy/mobile.handler?k=ntvmobile.de/iphone_video;adid=221744099;sz=99x99;&amp;r=x&amp;c=it&amp;ua=Windows%20Phone%20OS&amp;sp=&amp;u=4564563456546&amp;red=1&amp;ip=127.0.0.1
+                    </d3p1:Value>
+                </d3p1:Property>
+
+                <d3p1:Property>
+
+                    <d3p1:Name>
+stock.chart_base
+                    </d3p1:Name>
+
+                    <d3p1:Value>
+http://kursdaten.teleboerse.de/teleboerse/3077/chartNG.gfn?time=0&amp;chartType=0&amp;subProperty=1
+                    </d3p1:Value>
+                </d3p1:Property>
+            </d3p1:Properties>
+        </Value>
+    </KeyValueOfstringanyType>
+
+    <KeyValueOfstringanyType>
+
+        <Key>
+6179536
+        </Key>
+
+        <Value
+            xmlns:d3p1="http://schemas.datacontract.org/2004/07/Ntv.ViewModels"
+            i:type="d3p1:ArticleData" >
+
+            <d3p1:Article xmlns:d4p1="http://schemas.datacontract.org/2004/07/NtvService.Page.Elements" >
+
+                <d4p1:Agency>
+sp-x/hpr
+                </d4p1:Agency>
+
+                <d4p1:Author>
+                </d4p1:Author>
+
+                <d4p1:ContentType>
+meldung
+                </d4p1:ContentType>
+
+                <d4p1:Fields>
+
+                    <d4p1:PageElement.Field>
+
+                        <d4p1:Content>
+Mercedes plant A-Klasse-SUV
+                        </d4p1:Content>
+
+                        <d4p1:Name>
+headline
+                        </d4p1:Name>
+                    </d4p1:PageElement.Field>
+
+                    <d4p1:PageElement.Field>
+
+                        <d4p1:Content>
+Softroader gegen X1 und Q3
+                        </d4p1:Content>
+
+                        <d4p1:Name>
+subheadline
+                        </d4p1:Name>
+                    </d4p1:PageElement.Field>
+
+                    <d4p1:PageElement.Field>
+
+                        <d4p1:Content>
+    	Als kleinen Bruder fГјr GLK, ML und GL bringt Mercedes im kommenden Jahr, basierend auf der neuen A-Klasse, einen GLA auf den Markt. Nicht nur bei den Abmessungen, sondern auch bei der Optik beschreiten die Stuttgarter mit dem Kompakt-SUV neue Wege. 
+                        </d4p1:Content>
+
+                        <d4p1:Name>
+teaser
+                        </d4p1:Name>
+                    </d4p1:PageElement.Field>
+
+                    <d4p1:PageElement.Field>
+
+                        <d4p1:Content>
+Nach BMW und Audi kГ¶nnte nun mit Mercedes auch der dritte deutsche Premiumhersteller ein Kompakt-SUV auf den Markt bringen. Auf der Basis ihrer Kompakten haben die Stuttgarter fГјnf Modelle geplant. Drei sind mit der neun B-Klasse, A-Klasse und der Studie des viertГјrige A-Klasse-CoupГ©, das auf der Auto Show in Peking prГ¤sentiert wurde, bereits am Start. Zwei werden noch folgen. Eines davon dГјrfte der voraussichtlich GLA genannte X1- und Q3-Konkurrent sein, der bereits Ende 2013 - ebenfalls auf Basis der A-Klasse - auf den Markt kommen kГ¶nnte.Scharf, aber nicht kantigOptisch tritt der GLA deutlich jГјnger und dynamischer auf als etwa sein grГ¶Гџerer Bruder GLK. Statt scharfer Kanten gibt es flieГџende Linien und eine schrГ¤g stehende Heckklappe. Die Front wird von KГјhlergrill und Stern dominiert. Die fallende Sicke vom KotflГјgel zur HintertГјr verstГ¤rkt die Dynamik der steigenden Schulterlinie und des flieГџend abfallenden Hecks.Ohne groГџe hellseherische FГ¤higkeiten darf die Annahme geГ¤uГџert werden, dass auch der GLA zum Erfolgsmodell taugt. Wie die anderen Karosserieversionen der A-Klasse wird wohl auch das SUV Гјber die VorderrГ¤der angetrieben. Zum Marktstart soll der Softroader allerdings auch als Allrad angeboten werden.
+                        </d4p1:Content>
+
+                        <d4p1:Name>
+body
+                        </d4p1:Name>
+                    </d4p1:PageElement.Field>
+
+                    <d4p1:PageElement.Field>
+
+                        <d4p1:Content>
+&lt;p>Nach BMW und Audi kГ¶nnte nun mit Mercedes auch der dritte deutsche Premiumhersteller ein Kompakt-SUV auf den Markt bringen. Auf der Basis ihrer Kompakten haben die Stuttgarter fГјnf Modelle geplant. Drei sind mit der neun B-Klasse, A-Klasse und der Studie des viertГјrige A-Klasse-CoupГ©, das auf der Auto Show in Peking prГ¤sentiert wurde, bereits am Start. Zwei werden noch folgen. Eines davon dГјrfte der voraussichtlich GLA genannte X1- und Q3-Konkurrent sein, der bereits Ende 2013 - ebenfalls auf Basis der A-Klasse - auf den Markt kommen kГ¶nnte.&lt;/p>&lt;h3>Scharf, aber nicht kantig&lt;br />&lt;/h3>&lt;p>Optisch tritt der GLA deutlich jГјnger und dynamischer auf als etwa sein grГ¶Гџerer Bruder GLK. Statt scharfer Kanten gibt es flieГџende Linien und eine schrГ¤g stehende Heckklappe. Die Front wird von KГјhlergrill und Stern dominiert. Die fallende Sicke vom KotflГјgel zur HintertГјr verstГ¤rkt die Dynamik der steigenden Schulterlinie und des flieГџend abfallenden Hecks.&lt;/p>&lt;p>Ohne groГџe hellseherische FГ¤higkeiten darf die Annahme geГ¤uГџert werden, dass auch der GLA zum Erfolgsmodell taugt. Wie die anderen Karosserieversionen der A-Klasse wird wohl auch das SUV Гјber die VorderrГ¤der angetrieben. Zum Marktstart soll der Softroader allerdings auch als Allrad angeboten werden.&lt;/p>
+                        </d4p1:Content>
+
+                        <d4p1:Name>
+plainbody
+                        </d4p1:Name>
+                    </d4p1:PageElement.Field>
+                </d4p1:Fields>
+
+                <d4p1:HomeSection>
+Auto
+                </d4p1:HomeSection>
+
+                <d4p1:Id>
+6179536
+                </d4p1:Id>
+
+                <d4p1:Images>
+
+                    <d4p1:PageElement.Image>
+
+                        <d4p1:BaseUrl>
+http://apps.n-tv.de/img/6179531-1336119341/
+                        </d4p1:BaseUrl>
+
+                        <d4p1:Fields>
+
+                            <d4p1:PageElement.Field>
+
+                                <d4p1:Content>
+Optisch tritt der GLA deutlich jГјnger und dynamischer auf als sein grГ¶Гџerer Bruder GLK. 
+                                </d4p1:Content>
+
+                                <d4p1:Name>
+caption
+                                </d4p1:Name>
+                            </d4p1:PageElement.Field>
+
+                            <d4p1:PageElement.Field>
+
+                                <d4p1:Content>
+                                </d4p1:Content>
+
+                                <d4p1:Name>
+credits
+                                </d4p1:Name>
+                            </d4p1:PageElement.Field>
+                        </d4p1:Fields>
+
+                        <d4p1:FileName>
+MercedesGLA.jpg
+                        </d4p1:FileName>
+
+                        <d4p1:Height>
+1400
+                        </d4p1:Height>
+
+                        <d4p1:Url>
+http://apps.n-tv.de/img/6179531-1336119341/o/300/300/MercedesGLA.jpg
+                        </d4p1:Url>
+
+                        <d4p1:Width>
+2100
+                        </d4p1:Width>
+                    </d4p1:PageElement.Image>
+                </d4p1:Images>
+
+                <d4p1:Layout>
+detail
+                </d4p1:Layout>
+
+                <d4p1:Links />
+
+                <d4p1:PublishData>
+04.05.2012 11:24
+                </d4p1:PublishData>
+
+                <d4p1:Section>
+Auto
+                </d4p1:Section>
+
+                <d4p1:Url>
+http://apps.n-tv.de/auto/Mercedes-plant-A-Klasse-SUV-article6179536.html?service=mobile
+                </d4p1:Url>
+
+                <d4p1:Tag i:nil="true" />
+
+                <d4p1:Relations>
+
+                    <d4p1:PageElement.RelationOfanyTypeRvdAXEcW>
+
+                        <d4p1:Items>
+
+                            <anyType i:type="d4p1:NewsTeaser" >
+
+                                <d4p1:Agency>
+sp-x
+                                </d4p1:Agency>
+
+                                <d4p1:Author>
+                                </d4p1:Author>
+
+                                <d4p1:ContentType>
+meldung
+                                </d4p1:ContentType>
+
+                                <d4p1:Fields>
+
+                                    <d4p1:PageElement.Field>
+
+                                        <d4p1:Content>
+Urgestein erhГ¤lt VerjГјngungskur
+                                        </d4p1:Content>
+
+                                        <d4p1:Name>
+headline
+                                        </d4p1:Name>
+                                    </d4p1:PageElement.Field>
+
+                                    <d4p1:PageElement.Field>
+
+                                        <d4p1:Content>
+Mercedes G-Klasse
+                                        </d4p1:Content>
+
+                                        <d4p1:Name>
+subheadline
+                                        </d4p1:Name>
+                                    </d4p1:PageElement.Field>
+
+                                    <d4p1:PageElement.Field>
+
+                                        <d4p1:Content>
+Die G-Klasse ist bereits seit LГ¤ngerem das dienstГ¤lteste Pkw-Modell im Programm von Mercedes. KГјnftig ist der GelГ¤ndewagen auch das durstigste und teuerste - zumindest in der neuen Top-Version.
+                                        </d4p1:Content>
+
+                                        <d4p1:Name>
+teaser
+                                        </d4p1:Name>
+                                    </d4p1:PageElement.Field>
+                                </d4p1:Fields>
+
+                                <d4p1:HomeSection>
+Auto
+                                </d4p1:HomeSection>
+
+                                <d4p1:Id>
+5998976
+                                </d4p1:Id>
+
+                                <d4p1:Images>
+
+                                    <d4p1:PageElement.Image>
+
+                                        <d4p1:BaseUrl>
+http://apps.n-tv.de/img/5998991-1334148684/
+                                        </d4p1:BaseUrl>
+
+                                        <d4p1:Fields />
+
+                                        <d4p1:FileName>
+12C177-005.jpg
+                                        </d4p1:FileName>
+
+                                        <d4p1:Height>
+1400
+                                        </d4p1:Height>
+
+                                        <d4p1:Url>
+http://apps.n-tv.de/img/5998991-1334148684/o/300/300/12C177-005.jpg
+                                        </d4p1:Url>
+
+                                        <d4p1:Width>
+2100
+                                        </d4p1:Width>
+                                    </d4p1:PageElement.Image>
+                                </d4p1:Images>
+
+                                <d4p1:Layout>
+teaser
+                                </d4p1:Layout>
+
+                                <d4p1:Links>
+
+                                    <d4p1:PageElement.Link>
+
+                                        <d4p1:ContentType>
+meldung
+                                        </d4p1:ContentType>
+
+                                        <d4p1:HeadLine>
+VW bringt Offroad-Lieferanten
+                                        </d4p1:HeadLine>
+
+                                        <d4p1:SubheadLine>
+Crafter verlГ¤sst eingefahrene Wege
+                                        </d4p1:SubheadLine>
+
+                                        <d4p1:Url>
+http://apps.n-tv.de/auto/VW-bringt-Offroad-Lieferanten-article5883891.html?service=mobile
+                                        </d4p1:Url>
+                                    </d4p1:PageElement.Link>
+
+                                    <d4p1:PageElement.Link>
+
+                                        <d4p1:ContentType>
+meldung
+                                        </d4p1:ContentType>
+
+                                        <d4p1:HeadLine>
+Kommt das Range Rover Cabrio?
+                                        </d4p1:HeadLine>
+
+                                        <d4p1:SubheadLine>
+"Neues Segment begrГјnden"
+                                        </d4p1:SubheadLine>
+
+                                        <d4p1:Url>
+http://apps.n-tv.de/auto/Kommt-das-Range-Rover-Cabrio-article5704336.html?service=mobile
+                                        </d4p1:Url>
+                                    </d4p1:PageElement.Link>
+                                </d4p1:Links>
+
+                                <d4p1:PublishData>
+11.04.2012 15:05
+                                </d4p1:PublishData>
+
+                                <d4p1:Section>
+Auto
+                                </d4p1:Section>
+
+                                <d4p1:Url>
+http://apps.n-tv.de/auto/Urgestein-erhaelt-Verjuengungskur-article5998976.html?service=mobile
+                                </d4p1:Url>
+
+                                <d4p1:Tag i:nil="true" />
+
+                                <d4p1:Tag i:nil="true" />
+                            </anyType>
+
+                            <anyType i:type="d4p1:NewsTeaser" >
+
+                                <d4p1:Agency>
+                                </d4p1:Agency>
+
+                                <d4p1:Author>
+von Holger Preiss
+                                </d4p1:Author>
+
+                                <d4p1:ContentType>
+meldung
+                                </d4p1:ContentType>
+
+                                <d4p1:Fields>
+
+                                    <d4p1:PageElement.Field>
+
+                                        <d4p1:Content>
+Geheimnis um Ci(ty-Ti)tan gelГјftet
+                                        </d4p1:Content>
+
+                                        <d4p1:Name>
+headline
+                                        </d4p1:Name>
+                                    </d4p1:PageElement.Field>
+
+                                    <d4p1:PageElement.Field>
+
+                                        <d4p1:Content>
+Mehr Renault als Mercedes?
+                                        </d4p1:Content>
+
+                                        <d4p1:Name>
+subheadline
+                                        </d4p1:Name>
+                                    </d4p1:PageElement.Field>
+
+                                    <d4p1:PageElement.Field>
+
+                                        <d4p1:Content>
+Der Verkauf von Stadtlieferwagen und Hochdachkombis boomt. Kein Wunder, dass auch Mercedes nach dem Flop mit dem Vaneo einen neuen Versuch startet. Der Citan soll in diese LГјcke stoГџen und die Stuttgarter versprechen bei der Weltpremiere in Amsterdam einiges. 
+                                        </d4p1:Content>
+
+                                        <d4p1:Name>
+teaser
+                                        </d4p1:Name>
+                                    </d4p1:PageElement.Field>
+                                </d4p1:Fields>
+
+                                <d4p1:HomeSection>
+Auto
+                                </d4p1:HomeSection>
+
+                                <d4p1:Id>
+6060431
+                                </d4p1:Id>
+
+                                <d4p1:Images>
+
+                                    <d4p1:PageElement.Image>
+
+                                        <d4p1:BaseUrl>
+http://apps.n-tv.de/img/6060441-1334818675/
+                                        </d4p1:BaseUrl>
+
+                                        <d4p1:Fields />
+
+                                        <d4p1:FileName>
+12C479-32.jpg
+                                        </d4p1:FileName>
+
+                                        <d4p1:Height>
+3744
+                                        </d4p1:Height>
+
+                                        <d4p1:Url>
+http://apps.n-tv.de/img/6060441-1334818675/o/300/300/12C479-32.jpg
+                                        </d4p1:Url>
+
+                                        <d4p1:Width>
+5616
+                                        </d4p1:Width>
+                                    </d4p1:PageElement.Image>
+                                </d4p1:Images>
+
+                                <d4p1:Layout>
+teaser
+                                </d4p1:Layout>
+
+                                <d4p1:Links>
+
+                                    <d4p1:PageElement.Link>
+
+                                        <d4p1:ContentType>
+meldung
+                                        </d4p1:ContentType>
+
+                                        <d4p1:HeadLine>
+GroГџangriff der Familienkutschen
+                                        </d4p1:HeadLine>
+
+                                        <d4p1:SubheadLine>
+Hochdach ist in
+                                        </d4p1:SubheadLine>
+
+                                        <d4p1:Url>
+http://apps.n-tv.de/auto/Grossangriff-der-Familienkutschen-article6007796.html?service=mobile
+                                        </d4p1:Url>
+                                    </d4p1:PageElement.Link>
+
+                                    <d4p1:PageElement.Link>
+
+                                        <d4p1:ContentType>
+meldung
+                                        </d4p1:ContentType>
+
+                                        <d4p1:HeadLine>
+VW bringt Offroad-Lieferanten
+                                        </d4p1:HeadLine>
+
+                                        <d4p1:SubheadLine>
+Crafter verlГ¤sst eingefahrene Wege
+                                        </d4p1:SubheadLine>
+
+                                        <d4p1:Url>
+http://apps.n-tv.de/auto/VW-bringt-Offroad-Lieferanten-article5883891.html?service=mobile
+                                        </d4p1:Url>
+                                    </d4p1:PageElement.Link>
+                                </d4p1:Links>
+
+                                <d4p1:PublishData>
+19.04.2012 15:42
+                                </d4p1:PublishData>
+
+                                <d4p1:Section>
+Auto
+                                </d4p1:Section>
+
+                                <d4p1:Url>
+http://apps.n-tv.de/auto/Geheimnis-um-Ci-ty-Ti-tan-gelueftet-article6060431.html?service=mobile
+                                </d4p1:Url>
+
+                                <d4p1:Tag i:nil="true" />
+
+                                <d4p1:Tag i:nil="true" />
+                            </anyType>
+
+                            <anyType i:type="d4p1:NewsTeaser" >
+
+                                <d4p1:Agency>
+sp-x/hpr
+                                </d4p1:Agency>
+
+                                <d4p1:Author>
+                                </d4p1:Author>
+
+                                <d4p1:ContentType>
+meldung
+                                </d4p1:ContentType>
+
+                                <d4p1:Fields>
+
+                                    <d4p1:PageElement.Field>
+
+                                        <d4p1:Content>
+Mercedes Гјberarbeitet GLK
+                                        </d4p1:Content>
+
+                                        <d4p1:Name>
+headline
+                                        </d4p1:Name>
+                                    </d4p1:PageElement.Field>
+
+                                    <d4p1:PageElement.Field>
+
+                                        <d4p1:Content>
+Prachtkerl in neuem Kleid
+                                        </d4p1:Content>
+
+                                        <d4p1:Name>
+subheadline
+                                        </d4p1:Name>
+                                    </d4p1:PageElement.Field>
+
+                                    <d4p1:PageElement.Field>
+
+                                        <d4p1:Content>
+Der Mercedes GLK ist schon ein Prachtkerl. Vier Jahre rollte der GelГ¤ndegГ¤nger Гјber die StraГџen. Jetzt haben die Stuttgarter das Kompakt-SUV komplett Гјberarbeitet und neben einem neuen Kleid auch neue Motoren verpasst. Im April wird er in New York der Г–ffentlichkeit prГ¤sentiert.
+                                        </d4p1:Content>
+
+                                        <d4p1:Name>
+teaser
+                                        </d4p1:Name>
+                                    </d4p1:PageElement.Field>
+                                </d4p1:Fields>
+
+                                <d4p1:HomeSection>
+Auto
+                                </d4p1:HomeSection>
+
+                                <d4p1:Id>
+5830896
+                                </d4p1:Id>
+
+                                <d4p1:Images>
+
+                                    <d4p1:PageElement.Image>
+
+                                        <d4p1:BaseUrl>
+http://apps.n-tv.de/img/5831161-1332417464/
+                                        </d4p1:BaseUrl>
+
+                                        <d4p1:Fields />
+
+                                        <d4p1:FileName>
+12C179-001.jpg
+                                        </d4p1:FileName>
+
+                                        <d4p1:Height>
+968
+                                        </d4p1:Height>
+
+                                        <d4p1:Url>
+http://apps.n-tv.de/img/5831161-1332417464/o/300/300/12C179-001.jpg
+                                        </d4p1:Url>
+
+                                        <d4p1:Width>
+1452
+                                        </d4p1:Width>
+                                    </d4p1:PageElement.Image>
+                                </d4p1:Images>
+
+                                <d4p1:Layout>
+teaser
+                                </d4p1:Layout>
+
+                                <d4p1:Links>
+
+                                    <d4p1:PageElement.Link>
+
+                                        <d4p1:ContentType>
+meldung
+                                        </d4p1:ContentType>
+
+                                        <d4p1:HeadLine>
+Mercedes erfindet das A neu
+                                        </d4p1:HeadLine>
+
+                                        <d4p1:SubheadLine>
+Dynamischer Konzeptwechsel
+                                        </d4p1:SubheadLine>
+
+                                        <d4p1:Url>
+http://apps.n-tv.de/auto/Mercedes-erfindet-das-A-neu-article5681861.html?service=mobile
+                                        </d4p1:Url>
+                                    </d4p1:PageElement.Link>
+
+                                    <d4p1:PageElement.Link>
+
+                                        <d4p1:ContentType>
+meldung
+                                        </d4p1:ContentType>
+
+                                        <d4p1:HeadLine>
+Mercedes ML kein Weichei
+                                        </d4p1:HeadLine>
+
+                                        <d4p1:SubheadLine>
+Mehr GelГ¤nde wagen
+                                        </d4p1:SubheadLine>
+
+                                        <d4p1:Url>
+http://apps.n-tv.de/auto/Mercedes-ML-kein-Weichei-article4180181.html?service=mobile
+                                        </d4p1:Url>
+                                    </d4p1:PageElement.Link>
+                                </d4p1:Links>
+
+                                <d4p1:PublishData>
+22.03.2012 13:22
+                                </d4p1:PublishData>
+
+                                <d4p1:Section>
+Auto
+                                </d4p1:Section>
+
+                                <d4p1:Url>
+http://apps.n-tv.de/auto/Mercedes-ueberarbeitet-GLK-article5830896.html?service=mobile
+                                </d4p1:Url>
+
+                                <d4p1:Tag i:nil="true" />
+
+                                <d4p1:Tag i:nil="true" />
+                            </anyType>
+                        </d4p1:Items>
+
+                        <d4p1:Name>
+meldungen
+                        </d4p1:Name>
+                    </d4p1:PageElement.RelationOfanyTypeRvdAXEcW>
+
+                    <d4p1:PageElement.RelationOfanyTypeRvdAXEcW>
+
+                        <d4p1:Items>
+
+                            <anyType i:type="d4p1:GalleryTeaser" >
+
+                                <d4p1:Agency>
+                                </d4p1:Agency>
+
+                                <d4p1:Author>
+                                </d4p1:Author>
+
+                                <d4p1:ContentType>
+bilderserie
+                                </d4p1:ContentType>
+
+                                <d4p1:Fields>
+
+                                    <d4p1:PageElement.Field>
+
+                                        <d4p1:Content>
+Eine automobile Stilikone wird 60
+                                        </d4p1:Content>
+
+                                        <d4p1:Name>
+headline
+                                        </d4p1:Name>
+                                    </d4p1:PageElement.Field>
+
+                                    <d4p1:PageElement.Field>
+
+                                        <d4p1:Content>
+Mercedes SL
+                                        </d4p1:Content>
+
+                                        <d4p1:Name>
+subheadline
+                                        </d4p1:Name>
+                                    </d4p1:PageElement.Field>
+
+                                    <d4p1:PageElement.Field>
+
+                                        <d4p1:Content>
+Er ist vielleicht die grГ¶Гџte Designikone der Automobilgeschichte. Der Mercedes 300 SL wurde 1999 sogar zum "Sportwagen des Jahrhunderts" gewГ¤hlt. Und tatsГ¤chlich ist es schwer, sich der Faszination von FlГјgeltГјren in einem sportlich-leichten KarosseriekГ¶rper zu entziehen. 
+                                        </d4p1:Content>
+
+                                        <d4p1:Name>
+teaser
+                                        </d4p1:Name>
+                                    </d4p1:PageElement.Field>
+                                </d4p1:Fields>
+
+                                <d4p1:HomeSection>
+Auto
+                                </d4p1:HomeSection>
+
+                                <d4p1:Id>
+5307351
+                                </d4p1:Id>
+
+                                <d4p1:Images>
+
+                                    <d4p1:PageElement.Image>
+
+                                        <d4p1:BaseUrl>
+http://apps.n-tv.de/img/5306341-1327420856/
+                                        </d4p1:BaseUrl>
+
+                                        <d4p1:Fields />
+
+                                        <d4p1:FileName>
+83F58.jpg
+                                        </d4p1:FileName>
+
+                                        <d4p1:Height>
+2125
+                                        </d4p1:Height>
+
+                                        <d4p1:Url>
+http://apps.n-tv.de/img/5306341-1327420856/o/300/300/83F58.jpg
+                                        </d4p1:Url>
+
+                                        <d4p1:Width>
+3489
+                                        </d4p1:Width>
+                                    </d4p1:PageElement.Image>
+                                </d4p1:Images>
+
+                                <d4p1:Layout>
+teaser
+                                </d4p1:Layout>
+
+                                <d4p1:Links>
+
+                                    <d4p1:PageElement.Link>
+
+                                        <d4p1:ContentType>
+meldung
+                                        </d4p1:ContentType>
+
+                                        <d4p1:HeadLine>
+Seit 60 Jahren sportlich und leicht
+                                        </d4p1:HeadLine>
+
+                                        <d4p1:SubheadLine>
+Mercedes SL
+                                        </d4p1:SubheadLine>
+
+                                        <d4p1:Url>
+http://apps.n-tv.de/auto/Seit-60-Jahren-sportlich-und-leicht-article5121026.html?service=mobile
+                                        </d4p1:Url>
+                                    </d4p1:PageElement.Link>
+
+                                    <d4p1:PageElement.Link>
+
+                                        <d4p1:ContentType>
+meldung
+                                        </d4p1:ContentType>
+
+                                        <d4p1:HeadLine>
+AMG toppt den Mercedes SLS 
+                                        </d4p1:HeadLine>
+
+                                        <d4p1:SubheadLine>
+RekordverdГ¤chtiger Roadster
+                                        </d4p1:SubheadLine>
+
+                                        <d4p1:Url>
+http://apps.n-tv.de/auto/AMG-toppt-den-Mercedes-SLS-article4345311.html?service=mobile
+                                        </d4p1:Url>
+                                    </d4p1:PageElement.Link>
+                                </d4p1:Links>
+
+                                <d4p1:PublishData>
+26.01.2012 04:23
+                                </d4p1:PublishData>
+
+                                <d4p1:Section>
+Mediathek
+                                </d4p1:Section>
+
+                                <d4p1:Url>
+http://apps.n-tv.de/mediathek/bilderserien/auto/Eine-automobile-Stilikone-wird-60-article5307351.html?service=mobile
+                                </d4p1:Url>
+
+                                <d4p1:Tag i:nil="true" />
+
+                                <d4p1:Tag i:nil="true" />
+                            </anyType>
+                        </d4p1:Items>
+
+                        <d4p1:Name>
+bilderserien
+                        </d4p1:Name>
+                    </d4p1:PageElement.RelationOfanyTypeRvdAXEcW>
+                </d4p1:Relations>
+            </d3p1:Article>
+        </Value>
+    </KeyValueOfstringanyType>
+
+    <KeyValueOfstringanyType>
+
+        <Key>
+app.conf.spring.settings
+        </Key>
+
+        <Value
+            xmlns:d3p1="http://www.w3.org/2001/XMLSchema"
+            i:type="d3p1:boolean" >
+true
+        </Value>
+    </KeyValueOfstringanyType>
+
+</ArrayOfKeyValueOfstringanyType>

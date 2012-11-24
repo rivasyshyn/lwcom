@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, LwcomActivity!</string>
+    <string name="app_name">LwCom</string>
+
+    <string-array name="months">
+        <item>Січ</item>
+        <item>Лют</item>
+        <item>Бер</item>
+        <item>Кві</item>
+        <item>Тра</item>
+        <item>Чер</item>
+        <item>Лип</item>
+        <item>Сер</item>
+        <item>Вер</item>
+        <item>Жов</item>
+        <item>Лис</item>
+        <item>Гру</item>
+    </string-array>
+
+    <string name="str_sec">сек</string>
+    <string name="str_min">хв</string>
+    <string name="str_hou">год</string>
+
+    <string name="line_seconds">Секунди</string>
+    <string name="line_minutes">Хвилини</string>
+    <string name="line_hours">Години</string>
+    <string name="line_months">Місяць</string>
+    <string name="line_lines">Лінії</string>
+    <string name="line_fill">Заповнення</string>
+    <string name="line_shadow">Тінь</string>
+    <string name="line_position">Вертикальне розмішення</string>
+    <string name="line_background">Задній план</string>
+    <string name="line_text_color">Колір тексту</string>
+    <string name="sub_color">Колір</string>
+    <string name="sub_image">Зображення</string>
+    <string name="msg_click">Натисніть, щоб вибрати</string>
+    <string name="lbl_red">Червоний</string>
+    <string name="lbl_green">Зелений</string>
+    <string name="lbl_blue">Синій</string>
+    <string name="lbl_trans">Прозорість тексту</string>
+    <string name="msg_position">Установіть вертикальне положення</string>
+    <string name="msg_background">Вибір фону</string>
+    
+</resources>

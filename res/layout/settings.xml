@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <CheckedTextView
+            android:id="@+id/line_seconds"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/line"
+            android:checkMark="@drawable/btn_check_buttonless"
+            android:checked="true"
+            android:clickable="true"
+            android:drawableBottom="@android:drawable/divider_horizontal_dim_dark"
+            android:ellipsize="marquee"
+            android:focusable="true"
+            android:gravity="center_vertical"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:scrollHorizontally="true"
+            android:text="@string/line_seconds"
+            android:textAppearance="@android:style/TextAppearance.Large"
+            android:textColor="@android:color/white" />
+
+        <CheckedTextView
+            android:id="@+id/line_minutes"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/line"
+            android:checkMark="@drawable/btn_check_buttonless"
+            android:checked="true"
+            android:clickable="true"
+            android:drawableBottom="@android:drawable/divider_horizontal_dim_dark"
+            android:ellipsize="marquee"
+            android:focusable="true"
+            android:gravity="center_vertical"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:scrollHorizontally="true"
+            android:text="@string/line_minutes"
+            android:textAppearance="@android:style/TextAppearance.Large"
+            android:textColor="@android:color/white" />
+
+        <CheckedTextView
+            android:id="@+id/line_hours"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/line"
+            android:checkMark="@drawable/btn_check_buttonless"
+            android:checked="true"
+            android:clickable="true"
+            android:drawableBottom="@android:drawable/divider_horizontal_dim_dark"
+            android:ellipsize="marquee"
+            android:focusable="true"
+            android:gravity="center_vertical"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:scrollHorizontally="true"
+            android:text="@string/line_hours"
+            android:textAppearance="@android:style/TextAppearance.Large"
+            android:textColor="@android:color/white" />
+
+        <CheckedTextView
+            android:id="@+id/line_months"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/line"
+            android:checkMark="@drawable/btn_check_buttonless"
+            android:checked="false"
+            android:clickable="true"
+            android:drawableBottom="@android:drawable/divider_horizontal_dim_dark"
+            android:ellipsize="marquee"
+            android:focusable="true"
+            android:gravity="center_vertical"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:scrollHorizontally="true"
+            android:text="@string/line_months"
+            android:textAppearance="@android:style/TextAppearance.Large"
+            android:textColor="@android:color/white" />
+
+        <CheckedTextView
+            android:id="@+id/line_lines"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/line"
+            android:checkMark="@drawable/btn_check_buttonless"
+            android:checked="true"
+            android:clickable="true"
+            android:drawableBottom="@android:drawable/divider_horizontal_dim_dark"
+            android:ellipsize="marquee"
+            android:focusable="true"
+            android:gravity="center_vertical"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:scrollHorizontally="true"
+            android:text="@string/line_lines"
+            android:textAppearance="@android:style/TextAppearance.Large"
+            android:textColor="@android:color/white" />
+
+        <CheckedTextView
+            android:id="@+id/line_fill"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/line"
+            android:checkMark="@drawable/btn_check_buttonless"
+            android:checked="true"
+            android:clickable="true"
+            android:drawableBottom="@android:drawable/divider_horizontal_dim_dark"
+            android:ellipsize="marquee"
+            android:focusable="true"
+            android:gravity="center_vertical"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:scrollHorizontally="true"
+            android:text="@string/line_fill"
+            android:textAppearance="@android:style/TextAppearance.Large"
+            android:textColor="@android:color/white" />
+
+        <CheckedTextView
+            android:id="@+id/line_shadow"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/line"
+            android:checkMark="@drawable/btn_check_buttonless"
+            android:checked="true"
+            android:clickable="true"
+            android:drawableBottom="@android:drawable/divider_horizontal_dim_dark"
+            android:ellipsize="marquee"
+            android:focusable="true"
+            android:gravity="center_vertical"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:scrollHorizontally="true"
+            android:text="@string/line_shadow"
+            android:textAppearance="@android:style/TextAppearance.Large"
+            android:textColor="@android:color/white" />
+
+        <FrameLayout
+            android:id="@+id/line_position"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:focusable="true" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/line"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="-5dp"
+                        android:ellipsize="marquee"
+                        android:marqueeRepeatLimit="marquee_forever"
+                        android:paddingLeft="5dp"
+                        android:paddingTop="5dp"
+                        android:scrollHorizontally="true"
+                        android:text="@string/line_position"
+                        android:textAppearance="@android:style/TextAppearance.Large"
+                        android:textColor="@android:color/white" />
+
+                    <TextView
+                        android:id="@+id/position_val"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingBottom="1dp"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:text="50%"
+                        android:textAppearance="@android:style/TextAppearance.Small"
+                        android:textColor="#5555ff" />
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:padding="5dp"
+                    android:src="@drawable/expander_ic_minimized" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:background="@android:drawable/divider_horizontal_dim_dark" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/line_path"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:focusable="true" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/line"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="-5dp"
+                        android:ellipsize="marquee"
+                        android:marqueeRepeatLimit="marquee_forever"
+                        android:paddingLeft="5dp"
+                        android:paddingTop="5dp"
+                        android:scrollHorizontally="true"
+                        android:text="@string/line_background"
+                        android:textAppearance="@android:style/TextAppearance.Large"
+                        android:textColor="@android:color/white" />
+
+                    <TextView
+                        android:id="@+id/background_val"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingBottom="1dp"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:text="@string/sub_image"
+                        android:textAppearance="@android:style/TextAppearance.Small"
+                        android:textColor="#5555ff" />
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:padding="5dp"
+                    android:src="@drawable/expander_ic_minimized" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:background="@android:drawable/divider_horizontal_dim_dark" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/line_text"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:focusable="true" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/line"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="-5dp"
+                        android:ellipsize="marquee"
+                        android:marqueeRepeatLimit="marquee_forever"
+                        android:paddingLeft="5dp"
+                        android:paddingTop="5dp"
+                        android:scrollHorizontally="true"
+                        android:text="@string/line_text_color"
+                        android:textAppearance="@android:style/TextAppearance.Large"
+                        android:textColor="@android:color/white" />
+
+                    <TextView
+                        android:id="@+id/text_val"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingBottom="1dp"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:text="@string/sub_color"
+                        android:textAppearance="@android:style/TextAppearance.Small"
+                        android:textColor="#5555ff" />
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:padding="5dp"
+                    android:src="@drawable/expander_ic_minimized" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:background="@android:drawable/divider_horizontal_dim_dark" />
+        </FrameLayout>
+    </LinearLayout>
+
+</ScrollView>

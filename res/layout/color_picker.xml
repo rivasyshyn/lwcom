@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:scrollbars="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#444444"
+        android:minWidth="300dip"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/viewS"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:layout_margin="20dp"
+            android:background="#000000"
+            android:clickable="true"
+            android:gravity="center"
+            android:shadowColor="#000000"
+            android:shadowRadius="1"
+            android:text="Click to pick" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:text="Red"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#ff0000" />
+
+        <SeekBar
+            android:id="@+id/seekBarR"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:max="255"
+            android:padding="10dp"
+            android:progressDrawable="@drawable/sh_red" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:text="Green"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#00ff00" />
+
+        <SeekBar
+            android:id="@+id/seekBarG"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:max="255"
+            android:padding="10dp"
+            android:progressDrawable="@drawable/sh_green" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:text="Blue"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#0000ff" />
+
+        <SeekBar
+            android:id="@+id/seekBarB"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:max="255"
+            android:padding="10dp"
+            android:progressDrawable="@drawable/sh_blue" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:text="Transparency"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <SeekBar
+            android:id="@+id/seekBarT"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:max="255"
+            android:padding="10dp" />
+    </LinearLayout>
+
+</ScrollView>

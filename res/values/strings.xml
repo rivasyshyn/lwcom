@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, LwcomActivity!</string>
+    <string name="app_name">LwCom</string>
+
+    <string-array name="months">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+
+    <string name="str_sec">sec</string>
+    <string name="str_min">min</string>
+    <string name="str_hou">hour</string>
+    
+    <string name="line_seconds">Seconds</string>
+    <string name="line_minutes">Minutes</string>
+    <string name="line_hours">Hours</string>
+    <string name="line_months">Months</string>
+    <string name="line_lines">Lines</string>
+    <string name="line_fill">Fill</string>
+    <string name="line_shadow">Shadow</string>
+    <string name="line_position">Vertical Position</string>
+    <string name="line_background">Background</string>
+    <string name="line_text_color">Color of Text</string>
+    <string name="sub_color">Color</string>
+    <string name="sub_image">Image</string>
+    <string name="msg_click">Click to pick</string>
+    <string name="lbl_red">Red</string>
+    <string name="lbl_green">Green</string>
+    <string name="lbl_blue">Blue</string>
+    <string name="lbl_trans">Transparency</string>
+    <string name="msg_position">Set vertical position</string>
+    <string name="msg_background">Choiсe background</string>
+
+</resources>

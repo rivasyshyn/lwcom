@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, LwcomActivity!</string>
+    <string name="app_name">LwCom</string>
+
+    <string-array name="months">
+        <item>Янв</item>
+        <item>Фев</item>
+        <item>Мар</item>
+        <item>Апр</item>
+        <item>Май</item>
+        <item>Июн</item>
+        <item>Июл</item>
+        <item>Авг</item>
+        <item>Сен</item>
+        <item>Окт</item>
+        <item>Ноя</item>
+        <item>Дек</item>
+    </string-array>
+
+    <string name="str_sec">сек</string>
+    <string name="str_min">мін</string>
+    <string name="str_hou">час</string>
+
+    <string name="line_seconds">Секунды</string>
+    <string name="line_minutes">Минуты</string>
+    <string name="line_hours">Часы</string>
+    <string name="line_months">Месяцы</string>
+    <string name="line_lines">Линии</string>
+    <string name="line_fill">Заполнение</string>
+    <string name="line_shadow">Тень</string>
+    <string name="line_position">Вертикальное положение</string>
+    <string name="line_background">Задний план</string>
+    <string name="line_text_color">Цвет текста</string>
+    <string name="sub_color">Цвет</string>
+    <string name="sub_image">Изображение</string>
+    <string name="msg_click">Нажмите, чтобы выбрать</string>
+    <string name="lbl_red">Красный</string>
+    <string name="lbl_green">Зеленый</string>
+    <string name="lbl_blue">Синий</string>
+    <string name="lbl_trans">Прозрачность текста</string>
+    <string name="msg_position">Установить вертикальное положение</string>
+    <string name="msg_background">Выбор фона</string>
+    
+</resources>
